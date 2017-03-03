@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TabView">
+        <attr name="tab_checkedTextColor"
+            format="reference|color"/>
+        <attr name="tab_uncheckedTextColor"
+            format="reference|color"/>
+        <attr name="tab_checkedBackgroundColor"
+            format="reference|color"/>
+        <attr name="tab_uncheckedBackgroundColor"
+            format="reference|color"/>
+        <attr name="tab_iconTextMargin"
+            format="dimension"/>
+        <attr name="tab_textSize"
+            format="dimension"/>
+        <attr name="tab_imageWidth"
+            format="dimension"/>
+        <attr name="tab_imageHeight"
+            format="dimension"/>
+    </declare-styleable>
+</resources>
